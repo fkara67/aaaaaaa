@@ -16,6 +16,8 @@ img/
 
 # packages
 
+#git'in içinde olmasın dediklerini koy
+
 #log
 *.log
 
