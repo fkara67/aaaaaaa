@@ -2,6 +2,6 @@
 
 ## Alt Bilgi
 Lorem ipsumcrvrvrvrvrvrvr
-vrvrvrvrvrvrvrvrvrvrvrvrvr
+aaaaaaaaaaaaabbbbbbbbbbbcccccccccc
 
 [Lorem ipsum] (https://google.com)
