@@ -16,27 +16,14 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##Contributing
+## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu seçiniz.
 
-*italic* **bold** ***bolditalic***
-
-[text that's gonna be in link](url)
-
-[Click to go to Google](https://google.com)
-
-![Lorem picsum image](https://picsum.photos/200/300)
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
-```python
-print("hello world")
-```
-```javascript
-consol.log("hello world")
 
-function helloWorld() {
-    console.log("hello world")
-}
-```
-```java
-System.out.println("hello world")
-```
+
+
+![Proje Resmi](https://academy.patika.dev/_next/image?url=https%3A%2F%2Fpatika-prod.s3.eu-central-1.amazonaws.com%2FstaticFiles%2Facademy-logo.png&w=256&q=75)
