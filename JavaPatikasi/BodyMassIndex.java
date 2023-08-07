@@ -1,4 +1,3 @@
-package chapters.LastPart.Patika;
 
 import java.util.Scanner;
 
