@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ÜsHesaplama {
+public class UsHesaplama {
     public static void main(String[] args) {
         int n,k;
         Scanner input = new Scanner(System.in);
