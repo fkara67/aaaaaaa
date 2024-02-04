@@ -11,4 +11,3 @@ INNER JOIN payment ON customer.customer_id = payment.customer_id;
 SELECT rental_id, first_name, last_name FROM customer
 INNER JOIN rental ON customer.customer_id = rental.customer_id;
 
---Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result cannot contain duplicates.
