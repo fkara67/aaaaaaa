@@ -7,12 +7,13 @@ def euclidean_distance(points):
     """
     distances = []
     for i in range(len(points) - 1):
-        distances.append(math.sqrt(((points[i + 1][0] - points[i][0]) ** 2 + (points[i + 1][1] - points[i][1]) ** 2)))
+        for j in range(i + 1, len(points)):
+            distances.append(
+                math.sqrt(((points[j][0] - points[i][0]) ** 2 + (points[j][1] - points[i][1]) ** 2)))
 
     return distances
 
 
-points = [(1, 2), (4, 6), (5, 6)]
+points = [(1, 2), (4, 6), (4, 9), (1, 2)]
 min_distance = min(euclidean_distance(points))
 print(f"Minimum distance : {min_distance}")
-
