@@ -8,8 +8,8 @@ def euclidean_distance(points):
     distances = []
     for i in range(len(points) - 1):
         for j in range(i + 1, len(points)):
-            distances.append(
-                math.sqrt(((points[j][0] - points[i][0]) ** 2 + (points[j][1] - points[i][1]) ** 2)))
+            distance = math.sqrt(((points[j][0] - points[i][0]) ** 2 + (points[j][1] - points[i][1]) ** 2))
+            distances.append(distance)
 
     return distances
 
